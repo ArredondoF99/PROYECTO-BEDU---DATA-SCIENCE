@@ -24,4 +24,6 @@ Dentro de los datos usados se encuentran los casos delictivos por Estado y por M
 
 ### Objetivo: Análisis de casos delictivos de violencia familiar en tiempos de COVID-19
 
-Para este proyec
+Para este proyecto se realizó un análisis para determinar la relación que hubo del aislamiento provocado por el COVID-19 con los casos delictivos de violencia familiar, siendo que al estar la mayor del tiempo en el hogar aislado con la familia, era más propenso a presentar mayores casos de violencia familiar, y esto fue lo que se quería demostrar en este proyecto, si es que en verdad tuvo o no relación la cuarentena con la violencia familiar. Esto proyecto abarcó a lo que concierne al tema de *Data Analysis* usando las técnicas de ciencia de datos para determinar el objetivo del proyecto.
+
+Este proyecto fue elaborado junto con mis compañeros [Jesus Emanuel Serrano Molina](https://www.linkedin.com/in/jesus-emanuel-serrano-molina-00501/) y [Carlos Eduardo Vidal Villeda](https://www.linkedin.com/in/carlos-vi-villeda/)
