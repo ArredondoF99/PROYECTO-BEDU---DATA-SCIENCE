@@ -18,7 +18,7 @@ El primer proyecto tiene como título "Casos de violencia familiar y su relació
 
 Los datos que fueron usados para los proyectos fueron obtenidos del website del Gobierno de México, en donde se obtuvieron los casos delictivos en los estados y municipios de la República Mexicana dentro del periodo de 2015 a 2021. Esto otorgó credibilidad a los proyectos al tener una fuente confiable de información dado que fue una entidad gubernamental en donde se está basando para el desarrollo de los mismos. 
 
-Dentro de los datos usados se encuentran los casos delictivos por Estado y por Municipio en México. Esto a simple vista podría parecer muy similares entre sí, pero existe una gran diferencia al tener los datos mas detallados por cada Municipio de cada Estado, esto se platica más dentro de cada proyecto y el porqué fue usado el respectivo *dataset* en ellos. Para ver los datos puedes hacer [click aqui]().
+Dentro de los datos usados se encuentran los casos delictivos por Estado y por Municipio en México. Esto a simple vista podría parecer muy similares entre sí, pero existe una gran diferencia al tener los datos mas detallados por cada Municipio de cada Estado, esto se platica más dentro de cada proyecto y el porqué fue usado el respectivo *dataset* en ellos. Para ver los datos puedes hacer [click aqui](Data/).
 
 ## PROYECTO DATA ANALYSIS - *Casos de violencia familiar y su relación con el aislamiento por COVID-19*
 
