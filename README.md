@@ -33,3 +33,7 @@ Este proyecto fue elaborado junto con mis compañeros [Jesus Emanuel Serrano Mol
 ## PROYECTO MACHINE LEARNING - *Impacto delictivo en México a consecuencia del COVID-19*
 
 ### Objetivo: Desarrollar un modelo de machine learning capaz de clasificar por tipo de delito según los casos cometidos durante el periodo de 2015 a 2020
+
+Para este proyecto se realizó un modelo de machine learning el cual tomó como base los datos de los delitos cometidos de violencia familiar y daño a la propiedad en México durante el periodo de 2015 a 2020, los cuales a manera de hipótesis pudieran tener una mayor correlación a consecuencia del aislamiento provocado por el COVID-19, esto para que fuera entrenado y pudiera ser capaz de predecir (clasificar) por tipo de delito, ya sea violencia familiar o daño a la propiedad, en base a los delitos cometidos durante cada Municipio de la Republica Mexicana de manera mensual y anual.
+
+Este proyecto fue elaborado de forma individual a manera de finalización del curso Data Science por BEDU, en el cual fueron usados cuatro modelos de clasificación los cuales fueron comparados para determinar el modelo óptimo en base a las métricas estadísticas, siendo las Redes Neuronales Artificales, Random Forest, Support Vector Machine y Naïve Bayes. El proyecto lo puedes ver haciendo [click aqui](Proyectos/).
