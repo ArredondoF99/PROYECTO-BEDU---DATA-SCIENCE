@@ -5,6 +5,8 @@
 
 [INTRODUCCIÓN](#INTRODUCCIÓN)
 
+[DATOS](#DATOS)
+
 [PROYECTO DATA ANALYSIS](#PROYECTO-DATA-ANALYSIS---Casos-de-violencia-familiar-y-su-relación-con-el-aislamiento-por-COVID-19)
 
 ## INTRODUCCIÓN
@@ -12,5 +14,12 @@ El presente repositorio incluye dos proyectos realizados para finalizar el curso
 
 El primer proyecto tiene como título "Casos de violencia familiar y su relación con el aislamiento por COVID-19" en donde se usó análisis de datos para identificar el impacto ocasionado por el COVID-19 en delitos cometidos de violencia familiar, mientras que el segundo proyecto por su parte trata acerca del "Impacto delictivo en México a consecuencia del COVID-19" en donde fue creado un modelo de machine learning para predecir (clasificar) el tipo de delito en base a los delitos cometidos dentro del periodo mencionado. 
 
+## DATOS
+
+
+
 ## PROYECTO DATA ANALYSIS - *Casos de violencia familiar y su relación con el aislamiento por COVID-19*
-El proyecto 
+
+### Objetivo: Análisis de casos delictivos de violencia familiar en tiempos de COVID-19
+
+Para este proyec
