@@ -1,5 +1,5 @@
 # PROYECTO BEDU - DATA SCIENCE
-*Elaborado por Francisco Ricardo Arredondo Almuina*
+*Elaborado por [Francisco Ricardo Arredondo Almuina](https://www.linkedin.com/in/francisco-arredondo-073759198/)*
 
 ## CONTENIDO
 
