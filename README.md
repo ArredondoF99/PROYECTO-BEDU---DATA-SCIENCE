@@ -1,3 +1,4 @@
-# VIOLENCIA-FAMILIAR-EN-TIEMPOS-DE-COVID-19
+# PROYECTO BEDU - DATA SCIENCE
 
-En el siguiente proyecto será presentado un modelo de Machine Learning capaz de predecir los delitos de violencia familiar en México para el año 2021 como base en sus últimos 5 años, tras el impacto que tuvo el COVID-19.
+## INTRODUCCIÓN
+Mi nombre es Francisco Ricardo Arredondo Almuina y el presente repositorio incluye dos proyectos realizados en el curso de Data Science impartido por BEDU. Ambos proyectos 
